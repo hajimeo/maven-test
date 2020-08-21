@@ -19,7 +19,7 @@
     <snapshotRepository>
       <id>nexus</id>
       <name>maven-snapshots</name>
-      <url>http://dh1.standalone.localdomain:8081/repository/tenable-cloud-snapshots/</url>
+      <url>http://dh1.standalone.localdomain:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
